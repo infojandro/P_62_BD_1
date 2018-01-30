@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">P_62_BD_1</string>
+    <string-array name="opciones">
+        <item>Ver registros</item>
+        <item>Añadir registros</item>
+    </string-array>
+    <string name="texto1">Nuevo contacto</string>
+    <string name="texto2">Teclee nombre</string>
+    <string name="texto3">Teclee email</string>
+    <string name="texto4">Teclee tfno</string>
+    <string name="texto5">Guardar</string>
+    <string name="nombreBD">miAgenda</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="bot_llam">Llamar tfno %1$s</string>
+    <string name="titulo_activity">Contacto %s</string>
+    <string name="item_edi">Editar</string>
+    <string name="item_bor">Borrar</string>
+    <string name="dial_titulo">Borrar datos del contacto?</string>
+    <string name="dial_mensaje">Esta acción no puede deshacerse!</string>
+    <string name="dial_no">Datos no borrados</string>
+    <string name="title_activity_modificar">ModificarActivity</string>
+    <string name="texto6">Guardar cambios</string>
+    <string name="title_activity_segundo">SegundoActivity</string>
+    <string name="action_settings">modificar</string>
+    <string name="menu_borrar">Borrar</string>
+    <string name="title_activity_tercera">TerceraActivity</string>
+</resources>
